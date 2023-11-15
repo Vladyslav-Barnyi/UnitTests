@@ -1,7 +1,7 @@
 ﻿namespace MyClassesTest;
 
 [TestClass]
-public class AssemblyInitCleanup
+public class AssemblyInitCleanup 
 {
   [AssemblyInitialize()]
   public static void AssemblyInitialize(TestContext tc)
